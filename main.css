@@ -1,0 +1,47 @@
+body {
+  background: #990000;
+  color: white;
+}
+
+.streams {
+  background: #545454;
+  border-radius: 10px;
+  height: 120px;
+  margin-top: 10px;
+}
+
+img {
+  width: 90px;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
+.topP {
+  padding-top: 10px;
+}
+
+.totalViews {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.watchingNow {
+  display: inline-block;
+}
+
+.offlineText {
+  padding-left: 125px;
+  padding-top: 50px;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/*#buttons {
+  margin: auto;
+}*/
